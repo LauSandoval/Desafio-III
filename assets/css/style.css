@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 73px;
+    background: #000000;
+    opacity: 1;
+}
+
+.container-titulo {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    opacity: 1;
+}
+
+.imagen {
+    width: 100%;
+    height: 727px;
+    opacity: 1;
+    background: transparent;
+}
+
+.informacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    justify-content: space-around;
+    width: 100%;
+    height: 348px;
+}
+.informacion .formato{
+    align-items: center;
+    justify-content: center;
+}
+.formato {
+    font-size: 14px;
+    color: white;
+    width: 50%;
+    height: 50%;
+
+}
+
+div .posicion{
+    display: flex;
+    justify-content: center;
+}
+
+.posicion {
+    background: transparent;
+    margin-left: 50px;
+    width: 399px;
+    height: 273px;
+    border-radius: 15px;
+}
+
+div .tamaño {
+    width: 100%;
+    height: 100%;
+}
+
+.seccioniconos {
+    background-color: #1e1a13;
+    width: 100%;
+    height: 348px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.caracteristicas {
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: white;
+}
+
+.divpadre {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.iconos {
+    color: white
+}
+
+.iguanas3 {
+    background-color: black;
+    width: 100%;
+    height: 348px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.ubicariguanas {
+    width: 316px;
+    height: 202px;
+    border-radius: 15px;
+}
+
+footer {
+    width: 100%;
+    height: 102px;
+    background-color: #1e1a13;
+    opacity: 0.94;
+    text-align: center;
+    
+
+}
+footer a {
+
+    text-decoration: none;
+    color:#ffffff;
+}
+footer div {
+   padding-top: 39px;
+   padding-left: 299px;    
+}
